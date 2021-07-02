@@ -60,5 +60,5 @@ Organization of the United Nations
 
 Sea ice extent/temperature data is from NASA MODIS/Aqua data 
 (dates/times used: 2002-2021, 09-01, 00:00-23:59). 
-The data wass converted into TIFF format using the Python pymodis module.
+The data was converted into TIFF format using the Python pymodis module.
 
